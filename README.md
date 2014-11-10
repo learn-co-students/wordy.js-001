@@ -4,11 +4,6 @@ tags: math, word problems, hard
 ---
 
 # Wordy
-## Getting Started
-
-Run `npm install`
-
-
 ## Background
 
 ### Step 1
