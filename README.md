@@ -1,8 +1,3 @@
----
-languages: javascript
-tags: math, word problems, hard
----
-
 # Wordy
 ## Background
 
