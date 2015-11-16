@@ -74,3 +74,5 @@ learn
 #to run in the browser
 learn -b
 ```
+
+*Note:* The math operations in the examples above should be performed in the order that they are written. However, in order to correctly follow order of operations, remember to add parentheses wherever needed. 
